@@ -43,10 +43,13 @@ A real-time video analytics system built using **OpenCV**, **TensorFlow**, and *
    git clone https://github.com/your-username/video-analytics-project.git
    cd video-analytics-project
    
-2.**Create and activate virtual environment (optional but recommended):**
+2. **Create and activate virtual environment (optional but recommended):**
    ```bash
    python -m venv venv
    source venv/bin/activate  # On Windows: venv\Scripts\activate
+3.Install the required packages:
+  ```bash
+    pip install -r requirements.txt
 
 
 
