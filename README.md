@@ -50,4 +50,4 @@ A real-time video analytics system built using **OpenCV**, **TensorFlow**, and *
    
 3. **Install the required packages:**
   ```bash
-    pip install -r requirements.txt  ```
+    pip install -r requirements.txt  
